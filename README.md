@@ -1,25 +1,21 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
-<h1 align="center">Hi There👋, I'm Nahom</h1>
-<h3 align="center">A passionate Full stack BE Heavy developer</h3>
+<h1 align="center">Hi There👋, I'm Binyam</h1>
+<h3 align="center">A passionate Full stack Backend Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ">
 
-## Check out my portfolio: https://nahomtamirat.dev/
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipherent1&label=Profile%20views&color=0e75b6&style=flat" alt="Binyam-Mulat" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TNAHOM&label=Profile%20views&color=0e75b6&style=flat" alt="Nahom-Tamirat" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipherent1" alt="Binyam-Mulat" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TNAHOM" alt="Nahom-Tamirat" /></a> </p>
-
-- 🌱 I’m currently exploring some Advanced **Frontend** tools and stacks
+- 🌱 I’m currently exploring some Advanced **AI and ML** tools
 
 - 💬 Ask me about **backend, APIs and DSA**
 
-- 📫 How to reach me **https://www.linkedin.com/in/nahom-tamirat-ab7031232/**
-
-- ⚡ Fun fact **I love cars and I drive them HARD!!!**
+- 📫 How to reach me **https://www.linkedin.com/in/binyam-mulat-2838a6249/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nahom-tamirat-ab7031232/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nahom-Tamirat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/binyam-mulat-2838a6249/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nahom-Tamirat" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/zerabim212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zerabim212" height="30" width="40" /></a> -->
 <a href="https://codeforces.com/profile/TNAHOM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Nahom_tamirat" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/TNAHOM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kalkiadan-amare" height="30" width="40" /></a>
