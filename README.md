@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate Full-Stack and Backend Engineer with a focus on creating efficient, scalable, and user-friendly web applications. I have a strong background in backend technologies, API development, and problem-solving using data structures and algorithms. I am continuously expanding my knowledge and am currently exploring the exciting fields of Artificial Intelligence and Machine Learning.
+I am a passionate Full-Stack, Backend heavy Engineer with a focus on creating efficient, scalable, and user-friendly web applications. I have a strong background in backend technologies, API development, and problem-solving using data structures and algorithms. I am continuously expanding my knowledge and am currently exploring the exciting fields of Artificial Intelligence and Machine Learning.
 
 - 🌱 I’m currently exploring some Advanced **AI and ML** tools.
 - 💬 Ask me about **backend, APIs and DSA**.
