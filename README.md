@@ -1,104 +1,133 @@
-<h1 align="center">Hi There 👋, I'm Binyam</h1>
-<h3 align="center">A passionate Full-Stack & Backend Engineer</h3>
+# Hi, I'm Binyam 👋
 
-<p align="center">
-  <img align="center" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ">
-</p>
+**Backend Engineer · AI Systems · Mechatronics**
 
----
+I’m a software engineer with a background in **Electromechanical Engineering**, interested in building systems that connect software, AI, and the physical world.
 
-### 👨‍💻 About Me
+I mainly work on **backend systems, APIs, AI/ML applications, automation, and intelligent agents**. My engineering background also gives me a strong interest in **robotics, embedded systems, IoT, and computer vision**.
 
-I am a passionate Full-Stack, Backend heavy Engineer with a focus on creating efficient, scalable, and user-friendly web applications. I have a strong background in backend technologies, API development, and problem-solving using data structures and algorithms. I am continuously expanding my knowledge and am currently exploring the exciting fields of Artificial Intelligence and Machine Learning.
+I enjoy taking an idea from a rough concept and turning it into something that actually works.
 
-- 🌱 I’m currently exploring some Advanced **AI and ML** tools.
-- 💬 Ask me about **backend, APIs and DSA**.
-- 📫 How to reach me: **https://www.linkedin.com/in/binyam-mulat-2838a6249/**
+🌐 **[binyam-mulat.me](https://binyam-mulat.me/)** · 💼 **[LinkedIn](https://www.linkedin.com/in/binyam-mulat-abegaz)**
 
 ---
 
-### 🛠️ Languages and Tools
+## What I Work On
 
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-</p>
+* 🧠 **AI & Agentic Systems** — LLM applications, AI agents, MCP, RAG, automation
+* ⚙️ **Backend Engineering** — APIs, microservices, databases, system architecture
+* 🤖 **Robotics & Embedded Systems** — ESP32, IoT, computer vision, autonomous systems
+* 🛠️ **Developer Tools** — Linux, Docker, CI/CD, cloud deployments
+* 💻 **Full-Stack Development** — building the frontend when the product needs it
 
 ---
 
-### 📊 GitHub Stats
+## Tech Stack
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dipherent1&show_icons=true&locale=en" alt="Binyam-Mulat" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipherent1&" alt="Binyam-Mulat" />
+### Backend & Programming
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="40" height="40" alt="Go"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipherent1&show_icons=true&locale=en&layout=compact" alt="Binyam-Mulat" />
+
+**Python · Go · C++ · PHP · TypeScript · JavaScript**
+
+### Frameworks & APIs
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
 </p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dipherent1" alt="Binyam-Mulat" />
-  </a>
+
+**FastAPI · Django · Laravel · React · Next.js · REST APIs**
+
+### AI / ML
+
+**LLMs · AI Agents · MCP · RAG · Computer Vision · Machine Learning · Generative AI**
+
+### Data & Infrastructure
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </p>
+
+**PostgreSQL · MongoDB · Docker · Linux · Git · CI/CD**
+
+### Hardware & Robotics
+
+**ESP32 · Arduino · Embedded Systems · ROS · SolidWorks · IoT · Robotics**
 
 ---
 
-### 🤝 Connect with Me
+## Things I've Built
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/binyam-mulat-2838a6249/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Binyam-Mulat" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/dipherent1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Binyam_Mulat" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/dipherent1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kalkiadan-amare" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/dipherent1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Binyam-Mulat" height="30" width="40" />
-  </a>
-</p>
+### 🤖 AI-Integrated Autonomous Surveillance Robot
+
+My final-year engineering project combining **robotics, computer vision, embedded systems, and AI**.
+
+A low-cost autonomous security robot that can detect people, track a target, maintain distance, and send alerts remotely.
+
+**Built with:** ESP32-CAM · ROS · MATLAB/Simulink · Computer Vision · PD Control · SolidWorks
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dipherent1&label=Profile%20views&color=0e75b6&style=flat" alt="Binyam-Mulat" />
+### 🧠 Echo — Activity Logger & Analytics
+
+A browser activity analytics platform that collects browsing activity and turns it into useful insights about how time is spent online.
+
+**Built with:** Next.js · TypeScript · MongoDB · Chrome Extension · AI
+
+[View Repository](https://github.com/dipherent1/Echo-platform)
+
+---
+
+### 🤝 AI & Agent Systems
+
+I've worked on AI-powered systems including:
+
+* AI assistants and autonomous agents
+* MCP servers and tool integrations
+* AI-powered financial analysis
+* AI receptionists
+* Document processing and information extraction
+* Multimodal AI and computer vision
+* LLM-powered automation
+
+---
+
+## A Bit More About Me
+
+I studied **Electromechanical Engineering**, but software became a major part of my path.
+
+What I like most is the space between disciplines — where **software meets hardware, AI meets real-world problems, and engineering turns an idea into a working product**.
+
+Outside of writing software, I'm interested in **robotics, product building, entrepreneurship, and figuring out how things work**.
+
+---
+
+## Let's Connect
+
+<p align="left">
+  <a href="https://binyam-mulat.me">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/binyam-mulat-abegaz">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/dipherent1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
+
+> **Build things. Break things. Understand them. Build them better.**
