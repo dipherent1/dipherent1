@@ -82,16 +82,6 @@ A low-cost autonomous security robot that can detect people, track a target, mai
 
 ---
 
-### 🧠 Echo — Activity Logger & Analytics
-
-A browser activity analytics platform that collects browsing activity and turns it into useful insights about how time is spent online.
-
-**Built with:** Next.js · TypeScript · MongoDB · Chrome Extension · AI
-
-[View Repository](https://github.com/dipherent1/Echo-platform)
-
----
-
 ### 🤝 AI & Agent Systems
 
 I've worked on AI-powered systems including:
